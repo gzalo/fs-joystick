@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Gzalo/Desktop/github/fs-joystick/fs-joystick.X/app_device_joystick.c</file>
+            <file>file:/C:/Users/Gzalo/Desktop/github/fs-joystick/fs-joystick.X/system.h</file>
+            <file>file:/C:/Users/Gzalo/Desktop/github/fs-joystick/fs-joystick.X/fixed_address_memory.h</file>
+            <file>file:/C:/Users/Gzalo/Desktop/github/fs-joystick/fs-joystick.X/app_led_usb_status.h</file>
+            <file>file:/C:/Users/Gzalo/Desktop/github/fs-joystick/fs-joystick.X/main.c</file>
+            <file>file:/C:/Users/Gzalo/Desktop/github/fs-joystick/fs-joystick.X/bsp/buttons.h</file>
+            <file>file:/C:/Users/Gzalo/Desktop/github/fs-joystick/fs-joystick.X/bsp/buttons.c</file>
+            <file>file:/C:/Users/Gzalo/Desktop/github/fs-joystick/fs-joystick.X/system.c</file>
+            <file>file:/C:/Users/Gzalo/Desktop/github/fs-joystick/fs-joystick.X/io_mapping.h</file>
+            <file>file:/C:/Users/Gzalo/Desktop/github/fs-joystick/fs-joystick.X/bsp/adc.c</file>
+            <file>file:/C:/Users/Gzalo/Desktop/github/fs-joystick/fs-joystick.X/bsp/adc.h</file>
+            <file>file:/C:/Users/Gzalo/Desktop/github/fs-joystick/fs-joystick.X/app_led_usb_status.c</file>
+            <file>file:/C:/Users/Gzalo/Desktop/github/fs-joystick/fs-joystick.X/usb/usb_descriptors.c</file>
+            <file>file:/C:/Users/Gzalo/Desktop/github/fs-joystick/fs-joystick.X/usb/usb_config.h</file>
+        </group>
+    </open-files>
+</project-private>
